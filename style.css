@@ -34,3 +34,26 @@ em strong{
     font-style: italic;   
     text-align: left;
 }
+
+.beneficios{
+    background: rgb(61, 25, 25);
+    padding: 20px;
+}
+
+h2{
+    text-align: center;
+}
+
+.imagembeneficios {
+    width: 50%;
+}
+
+ul {
+    display: inline-block;
+    vertical-align: top; 
+    width: 20%;
+    margin-right: 15%;
+    margin-top : 130px;
+    line-height: 1.5;
+    font-size: 18px;
+}
