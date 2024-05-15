@@ -35,7 +35,7 @@ width: 940px;
 margin: 0 auto;
 padding: 50px;
 }
-.produtos{
+.produtos li{
     display: inline-flex;
     text-align: center;
     width: 30%;
@@ -43,8 +43,8 @@ padding: 50px;
     margin: 0 1.5 ;
     padding: 30px 20px;
     box-sizing: border-box;
-    border:2px solid #000
-    border: radius 10px;
+    border:2px solid #000;
+    border-radius: 10px;
 }
 
 
