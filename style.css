@@ -49,13 +49,14 @@ h2{
 }
 
 ul {
-    display: inline-block;
+    display: flex;
     vertical-align: top; 
     width: 20%;
     margin-right: 15%;
     margin-top : 130px;
     line-height: 1.5;
     font-size: 18px;
+
     .conteudo-beneficios {
         width: 640px;
         margin: 0 auto;
